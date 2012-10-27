@@ -1,0 +1,20 @@
+{
+  "name": "MyNPMClient",
+  "description": "Project Description.",
+  "version": "0.0.1",
+  "homepage": "http://#",
+  "author": "You",
+  "private": true,
+  "dependencies":
+  {
+    "ncurses": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "npm-registry-client": "latest",
+    "nopt": "latest"
+  },
+ "engines":
+  {
+    "node": ">= 0.8.3"
+  }
+}
